@@ -1,1 +1,1 @@
-rootProject.name = "com.example.ktor-websockets-chat"
+rootProject.name = "ktor-websockets-chat-server"
